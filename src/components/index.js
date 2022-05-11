@@ -1,0 +1,10 @@
+export { default as Header } from "./Header/header.js";
+export { default as Category } from "./Content/Category/category.js";
+export { default as Product } from "./Content/Products/product";
+export { default as ProductDetail } from "./Content/Products/Product_detail";
+export { default as HeaderAdmin } from "./HeaderAdmin/HeaderAdmin.js";
+export { default as ProductManager } from "./ProductManager/ProductManager.js";
+export { default as CategoryManager } from "./CategoryManager/CategoryManager.js";
+export { default as RecriptManager } from "./ReceiptManager/recriptManager.js";
+export { default as AddProduct } from "./ProductManager/AddProduct.js";
+export { default as AddCategory } from "./CategoryManager/AddCategory.js";

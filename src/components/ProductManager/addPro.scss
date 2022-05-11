@@ -1,0 +1,62 @@
+.form-add{
+  background-color: rgb(201, 213, 202);
+  border: 1px solid rgb(41, 220, 56);
+  border-radius: 10px;
+  padding: 20px;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+  
+  
+  h1 {
+    font-weight: 100;
+    color: rgb(41, 220, 56);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+  }
+  
+  .form {
+    border: 1px solid rgb(41, 220, 56);
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  p {
+    color: #bf1650;
+  }
+  
+
+
+  label {
+    line-height: 2;
+    text-align: left;
+    display: block;
+    margin-bottom: 1px;
+    margin-top: 10px;
+    color: rgb(5, 5, 5);
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  
+  .AddProduct {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .btn-success{
+    margin: 20px 0 20px 50px;
+  }
+  .btn-success a{
+    
+    text-decoration: none;
+    color: #fff;
+  }
+  .btn-success a:hover{
+    text-decoration: none;
+    color: #fff;
+  }
+
+

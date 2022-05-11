@@ -1,0 +1,8 @@
+- Đăng ký Đăng nhập
+- Quản lý Sản phẩm
+- Quản lý Danh mục
+- Trag chủ đã xong
+- Chi tiết Sản phẩm đã xong
+- Đặt hàng đã xong
+- Quản lý Thông tin cá nhân
+- Quản lý đơn hàng
